@@ -1,0 +1,12 @@
+{
+  "name": "webviewelectron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start" :  "electron ."
+  },
+  "keywords": [],
+  "author": "Augusto Tessmann Yunes",
+  "license": "ISC"
+}
